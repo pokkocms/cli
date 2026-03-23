@@ -1,6 +1,6 @@
 # Pokko CLI
 
-Manage [Pokko](https://pokko.io) CMS content model schemas as code — a Terraform-style workflow for your content models.
+Manage [Pokko](https://pokko.io) CMS content model schemas as code — a workflow for your content models.
 
 ```
 pokko pull        # fetch remote schemas to local YAML files
